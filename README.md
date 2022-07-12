@@ -2,7 +2,7 @@
 
 1. git clone https://github.com/vanchuongkieu/meta-tour-viewer.git
 2. cd meta-tour-viewer
-3. npm install && yarn
+3. npm install #or yarn
 4. npm run dev #or yarn dev to see the app at http://localhost:3000.
 
 ## Install VSCode Extension
